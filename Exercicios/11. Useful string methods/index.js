@@ -11,6 +11,6 @@ username = username.trim(); //remove empty spaces
 username = username.toUpperCase();
 username = username.toLowerCase();
 
-phoneNumber = phoneNumber.replaceAll("-", "")
+phoneNumber = phoneNumber.replaceAll("-", "");
 console.log(username);
 console.log(phoneNumber);

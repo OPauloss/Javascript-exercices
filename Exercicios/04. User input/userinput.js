@@ -13,4 +13,6 @@ document.getElementById("btn").onclick = function(){
 
     username = document.getElementById("myText").value;
     console.log(username);
+    document.getElementById("toShow").innerText = `Hello, ${username} !`
 }
+

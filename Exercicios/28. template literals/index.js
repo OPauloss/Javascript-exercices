@@ -8,5 +8,5 @@ let total = 75;
 
 console.log(`Hello, ${username}`);
 console.log(`You have ${items} items in your cart`);
-console.log(`Your total is $${total}`);
+console.log(`Your total is ${total}`);
 
